@@ -1,6 +1,6 @@
 # LoginFormUsingFormik
 Login form using Formik with basic validation.
-<img src="./loginform"
+<img src="./loginform"/>
 <h2>To use:</h2>
 <ul>
 <li>Fork this repository</li>
