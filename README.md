@@ -1,2 +1,2 @@
 # LoginFormUsingFormik
-Login form using Formik and basic validation.
+Login form using Formik with basic validation.
