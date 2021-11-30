@@ -8,7 +8,7 @@ Login form using Formik with basic validation.
 <li>Open a command line on your computer and run the command cd path/to/project/root. (path/to/project/root should be replaced with the actual path to the project folder)</li>
 <li>Within the same command-line window, run 'npm install' to install all dependencies.</li>
 <li>Within the same command-line window, run 'npm start' to start the application in your browser.</li>
-  
+  </ul>
 <h2>Contributors</h2>
 <ul>
   <li>Bill Conley</li>
@@ -22,6 +22,7 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
