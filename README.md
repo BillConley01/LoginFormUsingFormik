@@ -2,7 +2,7 @@
 <p>Login form using Formik with basic validation. </p>
 <img src="./loginform.png"/>
 <h2>To see the form in action follow this link:</h2>
-https://codesandbox.io/s/formiklogin-b0497?file=/src/App.js
+<a href="https://codesandbox.io/s/formiklogin-b0497?file=/src/App.js">Link to CodeSandbox</a>
 <h2>To use:</h2>
 <ul>
 <li>Fork this repository</li>
