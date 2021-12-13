@@ -1,7 +1,6 @@
 import React from "react";
 import { Formik, Field, Form, useFormik } from 'formik';
 import 'bootstrap/dist/css/bootstrap.min.css';
-<link rel="stylesheet" href="./index.css"></link>
 function App() {
   const formik = useFormik({
     initialValues: {
